@@ -1,9 +1,11 @@
 # Sunhokey-Prusa-i3-Marlin-Configuration
+
 Marlin firmware configuration file for Sunhokey Prusa i3 (1.1.5 => 1.1.6)
+Inspired by : https://www.thingiverse.com/thing:2484762
 
-########################## INSTALL ##########################
+########################################## INSTALL ##########################################
 
- 1 - Download Marlin Firmware at this adress : 
+ 1 - Download Marlin Firmware at this url : https://github.com/MarlinFirmware/Marlin/releases 
 
  2 - Select correct Marlin release
 
@@ -16,4 +18,4 @@ Marlin firmware configuration file for Sunhokey Prusa i3 (1.1.5 => 1.1.6)
  6 - Upload the firmware 
 
 
-#############################################################
+#############################################################################################
